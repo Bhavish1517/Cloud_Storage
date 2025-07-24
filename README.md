@@ -61,8 +61,8 @@ The Cloud Storage Microservice is a containerized application that enables users
 - *Upload File/Folder*  
   ![Upload Screenshot](screenshots/upload.png)
 
-- *Delete File/Folder*  
-  ![De;ete Screenshot](screenshots/delete.png)
+- *Downlaod File/Folder*  
+  ![Download Screenshot](screenshots/download.png)
 
 - *Sample Storage Alert*  
   ![Alert Screenshot](screenshots/storage_alert.png)
